@@ -1,14 +1,14 @@
 <?php
 
- 		 define('HOST', 'localhost');
-     define('DB_NAME' , 'nfa083');
-     define('USER' , 'root');
-     define('PASS' , '');
+ 	 //define('HOST', 'localhost');
+     //define('DB_NAME' , 'nfa083');
+     //define('USER' , 'root');
+     //define('PASS' , '');
 
-    //define('HOST', 'localhost');
-    //define('DB_NAME' , 'id9565149_nfa083');
-    //define('USER' , 'id9565149_christophe');
-    //define('PASS' , 'christophe');
+    define('HOST', 'localhost');
+    define('DB_NAME' , 'id9565149_nfa083');
+    define('USER' , 'id9565149_christophe');
+    define('PASS' , 'christophe');
 
 
 
