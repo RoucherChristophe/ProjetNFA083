@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://leschateauxdelaloire.000webhostapp.com/</loc>
+  <lastmod>2019-05-13T15:00:56+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://leschateauxdelaloire.000webhostapp.com/index.php</loc>
+  <lastmod>2019-05-13T15:00:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://leschateauxdelaloire.000webhostapp.com/pageA.php</loc>
+  <lastmod>2019-05-13T15:00:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://leschateauxdelaloire.000webhostapp.com/pageB.php</loc>
+  <lastmod>2019-05-13T15:00:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://leschateauxdelaloire.000webhostapp.com/contact.php</loc>
+  <lastmod>2019-05-13T15:00:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://leschateauxdelaloire.000webhostapp.com/mentions_legales.php</loc>
+  <lastmod>2019-05-13T15:00:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://leschateauxdelaloire.000webhostapp.com/articleA.php?id=%204</loc>
+  <lastmod>2019-05-13T15:00:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://leschateauxdelaloire.000webhostapp.com/articleA.php?id=%202</loc>
+  <lastmod>2019-05-13T15:00:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://leschateauxdelaloire.000webhostapp.com/articleA.php?id=%201</loc>
+  <lastmod>2019-05-13T15:00:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://leschateauxdelaloire.000webhostapp.com/articleB.php?id=%206</loc>
+  <lastmod>2019-05-13T15:00:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://leschateauxdelaloire.000webhostapp.com/articleB.php?id=%205</loc>
+  <lastmod>2019-05-13T15:00:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://leschateauxdelaloire.000webhostapp.com/articleB.php?id=%203</loc>
+  <lastmod>2019-05-13T15:00:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

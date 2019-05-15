@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Disallow: /include/
+Disallow: /divers/
+
+Sitemap: http://leschateauxdelaloire.000webhostapp.com/sitemap.xml

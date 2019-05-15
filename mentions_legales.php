@@ -22,20 +22,20 @@
     <div class="container">
 
       <div>
-        <h1 class="souligne">Mention légales</h1>
+        <h1 class="souligne">Mentions légales</h1>
         <h2 class="souligne">Identité</h2><br>
 
         <p>
           Les chateaux de la Loire<br>
           Siege social: TOURS <br>
           Tel: 02 47 00 00 00<br>
-          Email: Les_Chateaux_De_La_Loire@orange.fr<br>
+          Email: leschateauxdelaloire.000webhostapp.com <br>
         </p>
         
           <h2 class="souligne">Gestion du site internet</h2>
         <p>
-          Concepteurs: M.Guerin Xavier / M. Roucher Christophe<br>
-          Hebergeur: 1&1<br>
+          Concepteur: M. Roucher Christophe<br>
+          Hebergeur: 000webhost<br>
         </p>
         
         <h2 class="souligne">CNIL</h2>
@@ -69,11 +69,6 @@
              </p><br><hr><br>
             
           
-            <p>d'Azay-le-Rideau / lien :<br>
-            https://www.google.fr/search?rlz=1C1CHBD_frFR735FR735&biw=1366&bih=662&tbs=sur%3Afc&tbm=isch&sa=1&ei=P85kWsDXOMPrUtnSlqgB&q=chateau+azay+le+rideau&oq=chateau+a&gs_l=psy-ab.1.1.0i67k1l2j0l8.28652.28652.0.29712.1.1.0.0.0.0.72.72.1.1.0....0...1c.1.64.psy-ab..0.1.71....0.kqreA2PN_hQ
-            </p><br><hr><br>
-            
-          
             <p>Villandry / lien :<br>
             https://www.google.fr/search?q=chateau+villandry&rlz=1C1CHBD_frFR735FR735&tbs=sur:fmc&tbm=isch&source=lnt&sa=X&ved=0ahUKEwiBlIL_yunYAhVB7RQKHdf2Cm0QpwUIHg&biw=1366&bih=662&dpr=1#imgrc=_</td>
             </p><br><hr><br>
@@ -88,21 +83,6 @@
             https://www.google.fr/search?rlz=1C1CHBD_frFR735FR735&biw=1366&bih=662&tbs=sur%3Afmc&tbm=isch&sa=1&ei=n85kWrnID4GuU-u_sZAO&q=chateau+clos+luc%C3%A9&oq=chateau+clo&gs_l=psy-ab.1.4.0l9.117990.120323.0.122806.3.3.0.0.0.0.125.290.1j2.3.0....0...1c.1.64.psy-ab..0.3.289...0i67k1.0.h6pr9eFl2QU
             </p><br><hr><br>
             
-          
-            <p>Blois / lien :<br>
-            https://www.google.fr/search?rlz=1C1CHBD_frFR735FR735&biw=1366&bih=662&tbs=sur%3Afmc&tbm=isch&sa=1&ei=HM9kWtjhAYquU83YssAN&q=chateau+blois&oq=chateau+b&gs_l=psy-ab.1.0.0i67k1j0l5j0i67k1j0l3.24443.24443.0.25556.1.1.0.0.0.0.150.150.0j1.1.0....0...1c.1.64.psy-ab..0.1.150....0.xZvdBvnjWoY#imgrc=_
-            </p><br><hr><br>
-            
-            
-            <p>Valençay / lien :<br>
-            https://www.google.fr/search?rlz=1C1CHBD_frFR735FR735&biw=1366&bih=662&tbs=sur%3Afmc&tbm=isch&sa=1&ei=N89kWsnNDYyAU-nCkKAO&q=chateau+valen%C3%A7ay&oq=chateau+valen&gs_l=psy-ab.1.1.0l5j0i8i7i30k1l2j0i30k1l3.96299.107361.0.108443.7.7.0.0.0.0.129.583.6j1.7.0....0...1c.1.64.psy-ab..0.6.516...0i67k1j0i8i30k1j0i8i10i30k1.0.9X4mzkhrrzQ
-            </p><br><hr><br>
-            
-          
-            <p>Langeais / lien :<br>
-            https://www.google.fr/search?rlz=1C1CHBD_frFR735FR735&biw=1366&bih=662&tbs=sur%3Afmc&tbm=isch&sa=1&ei=pc9kWtL1EYr3UMaBgcgE&q=chateau+langeais&oq=chateau+lan&gs_l=psy-ab.1.1.0l10.39098.40248.0.41766.3.3.0.0.0.0.127.298.1j2.3.0....0...1c.1.64.psy-ab..0.3.298...0i67k1.0.uwPZpQE9mQY
-            </p><br><hr><br>
-          </div>
 
         </div>
       

@@ -2,8 +2,6 @@
     include 'include/database.php';
     global $db;
 
-    
-
     if(isset($_POST['formlogin']))
     {
         extract($_POST);

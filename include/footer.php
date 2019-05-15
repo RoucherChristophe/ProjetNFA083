@@ -14,7 +14,7 @@
       }
     ?>
     </p>
-      <a href="mentions_legales.php">Mention Légales</a>
+      <a href="mentions_legales.php">Mentions Légales</a>
   </div>
   <div id ="footer_description">
     <p id="descrisption_footer"> &copy; 2019. Project CNAM NFA083</p>
